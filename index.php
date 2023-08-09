@@ -27,7 +27,7 @@
   </head>
   <body>
     <h1>AJAK Quotes</h1>
-    <p>Click below to return a random quote</p>
+    <!-- <p>Click below to return a random quote</p> -->
     <div id="quoteContainer">Quotes Goes Here</div>
     <script>
 
@@ -90,6 +90,6 @@
       //run on page load
       displayRandomQuote();
     </script>
-  
+  <p>This web page, titled "AJAK Quotes," is a fun place to discover random quotes that can inspire or make you think. The cool part is that each quote you see might appear in a different style of writing because the page uses something called "Google Fonts." This just means that the words look unique and interesting. Also, when a new quote appears, it doesn't just pop up suddenly. It fades into view slowly, which looks really nice and smooth. It's like watching a quote come to life on the screen! And guess what? You don't need to keep clicking the button over and over. After you see one quote, the page will automatically show you a new one every 5 seconds. So you can just sit back and enjoy the inspiring quotes as they show up one after another. </p>
   </body>
 </html>
